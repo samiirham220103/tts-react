@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tts-react/static/css/main.80cf4ee5.chunk.css",
+    "main.js": "/tts-react/static/js/main.72dae906.chunk.js",
+    "main.js.map": "/tts-react/static/js/main.72dae906.chunk.js.map",
+    "runtime-main.js": "/tts-react/static/js/runtime-main.fbde0651.js",
+    "runtime-main.js.map": "/tts-react/static/js/runtime-main.fbde0651.js.map",
+    "static/js/2.dd3e0b92.chunk.js": "/tts-react/static/js/2.dd3e0b92.chunk.js",
+    "static/js/2.dd3e0b92.chunk.js.map": "/tts-react/static/js/2.dd3e0b92.chunk.js.map",
+    "static/js/3.2113073e.chunk.js": "/tts-react/static/js/3.2113073e.chunk.js",
+    "static/js/3.2113073e.chunk.js.map": "/tts-react/static/js/3.2113073e.chunk.js.map",
+    "index.html": "/tts-react/index.html",
+    "static/css/main.80cf4ee5.chunk.css.map": "/tts-react/static/css/main.80cf4ee5.chunk.css.map",
+    "static/js/2.dd3e0b92.chunk.js.LICENSE.txt": "/tts-react/static/js/2.dd3e0b92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbde0651.js",
+    "static/js/2.dd3e0b92.chunk.js",
+    "static/css/main.80cf4ee5.chunk.css",
+    "static/js/main.72dae906.chunk.js"
+  ]
+}
